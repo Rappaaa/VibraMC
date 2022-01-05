@@ -45,7 +45,7 @@ public class Main extends JavaPlugin {
 	
 	
 	public static void setServerSpawn(Location loc) {
-		//TEST TES
+		//TEST TEST
 		serverSpawn = loc;
 		SaveConfigFile();
 		
